@@ -32,9 +32,9 @@ void Pez::move_head(int time, int wait, int max_angle)
       head_pos = 90+max_angle;
       dir = -1;
     }
-    else if (head_pos < -(90+max_angle))
+    else if (head_pos < 90-max_angle)
     {
-      head_pos = -(90+max_angle);
+      head_pos = 90-max_angle;
       dir = 1;
     }
 
@@ -60,9 +60,9 @@ void Pez::move_tail(int time, int wait, int max_angle)
       tail_pos = 90+max_angle;
       dir = -1;
     }
-    else if (tail_pos < -(90+max_angle))
+    else if (tail_pos < 90-max_angle)
     {
-      tail_pos = -(90+max_angle);
+      tail_pos = 90-max_angle;
       dir = 1;
     }
 
@@ -89,9 +89,9 @@ void Pez::move_head_and_tail(int time, int wait, int head_max_angle, int tail_ma
       head_pos = 90+head_max_angle;
       head_dir = -1;
     }
-    else if (head_pos < -(90+head_max_angle))
+    else if (head_pos < 90-head_max_angle)
     {
-      head_pos = -(90+head_max_angle);
+      head_pos = 90-head_max_angle;
       head_dir = 1;
     }
 
@@ -100,9 +100,9 @@ void Pez::move_head_and_tail(int time, int wait, int head_max_angle, int tail_ma
       tail_pos = 90+tail_max_angle;
       tail_dir = -1;
     }
-    else if (tail_pos < -(90+tail_max_angle))
+    else if (tail_pos < 90-tail_max_angle)
     {
-      tail_pos = -(90+tail_max_angle);
+      tail_pos = 90-tail_max_angle;
       tail_dir = 1;
     }
 
