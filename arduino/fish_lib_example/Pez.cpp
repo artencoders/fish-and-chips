@@ -21,7 +21,7 @@ void Pez::move_head(int time, int wait, int max_angle)
   int current_time = 0;
 
   //-- Check limits
-  uint8_t dir = 1; // 1 positive, -1 negative
+  int8_t dir = 1; // 1 positive, -1 negative
 
   while (current_time < time)
   {
@@ -49,7 +49,7 @@ void Pez::move_tail(int time, int wait, int max_angle)
   int current_time = 0;
 
   //-- Check limits
-  uint8_t dir = 1; // 1 positive, -1 negative
+  int8_t dir = 1; // 1 positive, -1 negative
 
   while (current_time < time)
   {
@@ -77,7 +77,7 @@ void Pez::move_head_and_tail(int time, int wait, int head_max_angle, int tail_ma
   int current_time = 0;
 
   //-- Check limits
-  uint8_t head_dir = 1, tail_dir = 1; // 1 positive, -1 negative
+  int8_t head_dir = 1, tail_dir = 1; // 1 positive, -1 negative
 
   while (current_time < time)
   {
