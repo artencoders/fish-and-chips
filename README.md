@@ -26,9 +26,9 @@ This project is still a work in progress, but we deeply believe in the Open Sour
 
 ## Betta Fish: The Peleator
 
-The Betta Fish (*Betta splendens*) is also known as the Siamese Fighting Fish, hence the name Peleator¹. 
+For the first fish of the Fish && Chips project, called *Peleator*, we chose as inspiration the Betta Fish. The Betta Fish (*Betta splendens*) is also known as the Siamese Fighting Fish, hence the name Peleator¹. 
 
-We like this species because of three things: it's a though fighter, it's beautiful and easy to maintain. Just like us.
+We like this species because of three things: it's a though fighter, it's beautiful and easy to maintain, requiring little more than food. Just like us.
 
 ¹ For all non-spanish speakers out there, Peleator is a made-up-latin name derived from *pelear*, which means *to fight* in spanish. It also sounds like a name one would use for a large translatlantic boat, which (for us) makes it even funnier.
 
