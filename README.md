@@ -26,7 +26,7 @@ This project is still a work in progress, but we deeply believe in the Open Sour
 
 ## Betta Fish: The Peleator
 
-For the first fish of the Fish && Chips project, called *Peleator*, we chose as inspiration the Betta Fish. The Betta Fish (*Betta splendens*) is also known as the Siamese Fighting Fish, hence the name Peleator¹. 
+For the first robotic fish of this project, the *Peleator*, we chose as inspiration a species widely used as a pet: the Betta Fish. The Betta Fish (*Betta splendens*) is also known as the Siamese Fighting Fish, hence the name Peleator¹. One characteristic trait of this species is their aggresivity towards other fish, including members of its own species.
 
 We like this species because of three things: it's a though fighter, it's beautiful, and it's easy to maintain, requiring little more than food. Just like us.
 
