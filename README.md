@@ -41,11 +41,14 @@ This section will show the evolution of the different prototypes for the *Peleat
 ### Early prototypes
 The idea behind the early prototypes was to put everything that could not be in contact with water (e.g. LiPo battery, electronics) in the body of the fish, sealing it so that it was watertight. We built some versions of this prototype, but the main challenge was to keep the body watertight while transmitting the motor movement outside the body. This version was discarded, and we moved on to the next one.
 
-
+![Early prototypes - FreeCAD](doc/img/phase-01-01.jpg)
+![Early prototypes](doc/img/phase-01-02.jpg)
 
 ### Working core
-For the next iteration, we decided to make a core to support all the electronics, motors and batteries, similar to a "skeleton" for the fish. This would no longer need to be watertight, as later a skin would cover the fish, isolating the internal components. 
+For the next iteration, we decided to make a core to support all the electronics, motors and batteries, similar to a "skeleton" for the fish. This would no longer need to be watertight, as later a skin would cover the fish, isolating the internal components.
 
+![Working core - FreeCAD](doc/img/phase-02-01.jpg)
+![Working core](doc/img/phase-02-02.jpg)
 
 ### Tail and Skin
 To gain some knowledge about the fish movement that could be later used in a watertight version, a tail and outer skin were developed in wood as a proof of concept. The focus of this iteration, as mentioned before, was to develop some movement patters that would resemble the fluid movement of a Betta Fish.
