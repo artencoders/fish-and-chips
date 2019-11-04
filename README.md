@@ -34,20 +34,37 @@ We like this species because of three things: it's a though fighter, it's beauti
 
 ## Evolution
 
-This will show the evolution of the prototype. The aim of the first version is not to be submergible, but to grasp a good notion of what the robot needs. Swimming is a larger challenge that will come later on.
+Technology, as life, does not suddenly appear fully developed. Instead, it is perfected through evolution, iterating over different versions and correcting errors.  Or, as the fish saying goes: "one has to learn to move its fins before it can swim".
+
+This section will show the evolution of the different prototypes for the *Peleator*. The aim of the first version is not to be submergible, but to grasp a good notion of the robot needs, both in terms of technical components and aesthetics. Swimming is a larger challenge that will come later on.
 
 ### Early prototypes
+The idea behind the early prototypes was to put everything that could not be in contact with water (e.g. LiPo battery, electronics) in the body of the fish, sealing it so that it was watertight. We built some versions of this prototype, but the main challenge was to keep the body watertight while transmitting the motor movement outside the body. This version was discarded, and we moved on to the next one.
+
+
 
 ### Working core
+For the next iteration, we decided to make a core to support all the electronics, motors and batteries, similar to a "skeleton" for the fish. This would no longer need to be watertight, as later a skin would cover the fish, isolating the internal components. 
+
 
 ### Tail and Skin
+To gain some knowledge about the fish movement that could be later used in a watertight version, a tail and outer skin were developed in wood as a proof of concept. The focus of this iteration, as mentioned before, was to develop some movement patters that would resemble the fluid movement of a Betta Fish.
+
+### Future iterations
+Once we have gained enough insight of the fish movement, the next step will be to develop a submergible version, that will need to deal with issues as flotability, remote control underwater / autonomy and, of course, keeping the electronics and batteries dry.
 
 ## Building a Peleator
 
 **NOTE**: THIS IS A WORK IN PROGRESS. IT PROBABLY WON'T WORK RIGHT AWAY, SO PLEASE KEEP THIS IN MIND BEFORE BUILDING ONE. WE ARE CURRENTLY FOCUSED ON DEVELOPMENT, SO NO FURTHER SUPPORT WILL BE PROVIDED FOR BUILDING AN EARLY PROTOTYPE. YOU ARE ON YOUR OWN (GOOD LUCK!)
 
 ### Mechanics
+The fish core is composed of several 3D printed parts, that can be found in the FreeCAD file in this repo.
+
+The fish skin is currently made of wood parts made by hand, so unfortunately there is no way to obtain them (unless you make them yourself).
 
 ### Circuits
 
+For the electronics and actuators, an Arduino Uno board and two 9G hobby servos are required. Future versions will probably include smaller boards (e.g. Digispark, Serpente, etc). 
+
 ### Programming
+This repository contains a test code that can be used for some of the fish movements, altough it is still work in progress.
