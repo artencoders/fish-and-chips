@@ -53,6 +53,9 @@ For the next iteration, we decided to make a core to support all the electronics
 ### Tail and Skin
 To gain some knowledge about the fish movement that could be later used in a watertight version, a tail and outer skin were developed in wood as a proof of concept. The focus of this iteration, as mentioned before, was to develop some movement patters that would resemble the fluid movement of a Betta Fish.
 
+![Tail and Skin](doc/img/phase-03-03.jpg)
+![Tail and Skin](doc/img/phase-03-04.jpg)
+
 ### Future iterations
 Once we have gained enough insight of the fish movement, the next step will be to develop a submergible version, that will need to deal with issues as flotability, remote control underwater / autonomy and, of course, keeping the electronics and batteries dry.
 
