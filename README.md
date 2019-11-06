@@ -18,6 +18,8 @@ For this collaboration, we wanted a project that would allow us to design someth
 
 We considered different animals as inspiration for our robot, but something about fish draw our attention. Their hypnotic movement, and the fact that they exist in a great variety of shapes and sizes, offered us a wide range of possibilities for our design. In addition, the natural medium for fish is water, which does not get along pretty well with electronics, making fish robots a rare morphology compared with other kind of robots such as hexapods, quadrupeds or humanoids, and creating the challenge we were looking for. 
 
+![Peleator robot](doc/img/peleator-01.jpg)
+
 A key idea while developing the project was that it should foster creativity, allowing people to create their own versions of the fish, even by traditional means, without requiring digital fabrication machines. For this purpose, our fish robot is composed of two main components. The first one is a standard core, that serves as a base for the fish, and offers an already tested solution for its movement and control, removing the need for advanced electronics or programming knowledge. The second one is a skin that surrounds the fish core and provides fins and a tail to propel the fish in water, as well as its external appearance. 
 
 Being divided in two components makes is a perfect educational platform as it is possible to work on different aspects of the robot at different levels: from simply designing new skins to surround a standard core to a deeper understanding of the programming, electronics and mechanics of the robot by modifying the core.
